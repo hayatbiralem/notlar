@@ -1,15 +1,15 @@
 # Hızlı Web Siteleri Kodlamak
 
-Optimizasyon çok önemli bir husus. Küçük web siteleri üstünde çalışıldığında pek fark edilmeyebilir optimizasyon eksikliği ama büyük bir web sitesi üzerinde çalışıyorsanız, bolca img, css ve js kullanıyorsanız, kısa sürede optimizasyonun ne kadar hayati olduğunu fark edersiniz.
+Optimizasyon çok önemli bir husus. Küçük web siteleri üstünde çalışıldığında pek fark edilemeyebilir optimizasyon eksikliği ama büyük bir web sitesi üzerinde çalışıyorsanız, bolca img, css ve js kullanıyorsanız, kısa sürede optimizasyonun ne kadar hayati olduğunu fark edersiniz.
 
 Aklıma gelenleri not etmeye, not ettiklerimi denemeye, denediklerimi yorumlamaya çalışacağım.
 
-YYYY-MM-DD  John Doe  <johndoe@example.com>
+---
 
-    * myfile.ext (myfunction): my changes made
-    additional changes
+### 2015-06-03
 
-    * myfile.ext (unrelated_change): my changes made
-    to myfile.ext but completely unrelated to the above
+**Bir projenin front-end kodlamasını yaparken, _JavaScript kullanmadan_ tüm tasarımı sadece CSS ve HTML kullanarak kodlamak, sitenin performansını önemli ölçüde arttırmamıza olanak sağlayacaktır. **
 
-    * anotherfile.ext (somefunction): more changes
+Şöyle ki;
+
+Sitenizin (JavaScript, vb. kullanarak) fonksiyonellik kazanmadan da olması gerektiği gibi görünmesini sağlarsanız, diğer tüm CSS ve JS dosyalarınızın, sayfa yüklendikten sonra çalıştırılmasını sağlayabilirsiniz. Bu sadede web sitenizin hem masaüstü hem de mobil cihazlarda mümkün olduğunca hızlı bir şekilde açılmasını sağlamak için önemli bir adım atmış olursunuz.
