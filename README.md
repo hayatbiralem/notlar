@@ -1,2 +1,2 @@
-# notlar
+# Notlar
 Bir nevi not defteri.
