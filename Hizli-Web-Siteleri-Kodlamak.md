@@ -2,7 +2,7 @@
 
 Optimizasyon çok önemli bir husus. Optimizasyon eksikliği, küçük web siteleri üstünde çalışıldığında pek fark edilemeyebilir ama büyük bir web sitesi üzerinde çalışıyorsanız, bolca img, css ve js kullanıyorsanız, kısa sürede optimizasyonun ne kadar hayati olduğunu fark edersiniz.
 
-Aklıma gelenleri not etmeye, not ettiklerimi denemeye, denediklerimi yorumlamaya çalışacağım.
+Aklıma gelenleri not etmeye, not ettiklerim üzerinde çalışmaya, tecrübelerimi de anlamlandırmaya çalışacağım.
 
 ---
 
